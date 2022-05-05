@@ -1,0 +1,53 @@
+.modalHeader {
+  text-align: center;
+  margin: -1.25rem -1.5rem -1.25rem -1.5rem;
+  background-color: #2185d0;
+  padding: 20px;
+  border-radius: 0.28571429rem;
+}
+
+.title {
+  font-family: Roboto;
+  color: white;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.icon {
+  position: absolute;
+  right: 30px;
+  top: 28px;
+}
+
+.PlanBody {
+  text-align: center;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.PlanName {
+  margin: 36px 10%;
+  text-align: left;
+  padding: 0 10%;
+}
+
+.PlanStartEnd {
+  text-align: left;
+  margin: 36px 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.PlanWeekHour {
+  text-align: left;
+  margin: 36px 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.errorMessage {
+  font-size: medium;
+  color: red;
+}

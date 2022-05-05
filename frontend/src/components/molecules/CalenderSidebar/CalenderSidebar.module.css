@@ -1,0 +1,27 @@
+.sidebarContainer {
+  position: fixed;
+}
+
+.div {
+  height: 100vh;
+  width: 120px;
+}
+
+.btnContainer {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.toggleBtn {
+  margin-top: 20px;
+}
+
+.magin {
+  margin: 10px;
+}
+.logoutBtn {
+  position: relative;
+  bottom: 80px;
+  left: 15px;
+  position: fixed;
+}

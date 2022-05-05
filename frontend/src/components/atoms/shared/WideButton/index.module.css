@@ -1,0 +1,22 @@
+.wideButton {
+    font-size: x-large;
+    color: #2185d0;
+    background-color: white;
+    outline: none;
+    padding: 2% 8%;
+    display: inline-block;
+    border: solid 1px #2184d0;
+    border-radius: 50px;
+    margin: 3% 3%;
+    box-shadow: 3px 3px #c0c0c0;
+    text-decoration: none;
+    /* margin-top: 10%; */
+    width: 320px;
+    cursor: pointer;
+  }
+  .wideButton:active {
+    box-shadow: none;
+    position: relative;
+    top: 1px;
+  }
+  
