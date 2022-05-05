@@ -1,0 +1,61 @@
+.signupcontainer {
+  padding: 2% 0 3%;
+  background-color: white;
+  margin: 0 auto;
+  width: 360px;
+  height: 480px;
+  border-radius: 20px;
+  margin-top: 50px;
+  text-align: center;
+  border: #2184d0 solid 2px;
+}
+
+.signuptxt {
+  font-size: 40px;
+  color: #2184d0;
+  font-family: Roboto;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  margin-top: 15%;
+}
+
+.signupbody {
+  margin: 0 auto;
+  padding-bottom: 4%;
+}
+
+.signupform {
+  margin: 0 auto;
+  color: #2185d0;
+  border-radius: 0%;
+  outline: none;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  font-size: 18px;
+  padding-top: 7%;
+}
+
+.createaccount {
+  padding: 2% 18%;
+  margin-top: 10%;
+}
+
+.inputMargin {
+  margin: 30px;
+}
+
+.smallButtonContainer {
+  justify-content: center;
+  display: flex;
+}
+
+.buttonContainer {
+  margin-top: 40px;
+}
+.errorMessage {
+  margin-top: 10px;
+  font-size: small;
+  color: red;
+}

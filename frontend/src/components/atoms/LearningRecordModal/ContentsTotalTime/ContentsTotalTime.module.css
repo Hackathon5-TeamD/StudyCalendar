@@ -1,0 +1,26 @@
+.learningTimesDiv {
+  display: flex;
+  justify-content: space-between;
+  width: 324px;
+  height: 60px;
+  background-color: rgba(33, 133, 208, 0.2);
+  border-radius: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  margin: 10px;
+  padding: 5px;
+}
+.contentName {
+  display: inline-block;
+  padding: 13px;
+}
+.contentsTotalTime {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+}

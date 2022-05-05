@@ -1,0 +1,14 @@
+.homeContainer {
+  display: flex;
+}
+
+.sidebarWrappper {
+  width: 30px;
+  height: 92vh;
+}
+.calendarWrapper {
+  width: 87%;
+  position: fixed;
+  left: 170px;
+  top: 10px;
+}

@@ -1,0 +1,45 @@
+.modalHeader {
+  text-align: center;
+  margin: -1.25rem -1.5rem -1.25rem -1.5rem;
+  background-color: #2185d0;
+  padding: 20px;
+  border-radius: 0.28571429rem;
+}
+.title {
+  font-family: Roboto;
+  color: white;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.icon {
+  position: absolute;
+  right: 30px;
+  top: 28px;
+}
+.modalContainer {
+  font-family: Roboto;
+}
+
+.totalTimeContainer {
+  display: flex;
+  justify-content: space-around;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.learningContentTitle {
+  margin-top: 60px;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.learningContentsContainer {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(2, 350px);
+  column-gap: 80px;
+}
