@@ -1,0 +1,24 @@
+.taskText {
+  margin-left: 20px;
+  font-size: large;
+  font-family: Robot;
+}
+.taskContainer {
+  padding: 5px;
+  margin-bottom: -20px;
+  display: flex;
+  justify-content: space-between;
+}
+.taskCheckItems {
+  display: flex;
+}
+.learnningTime {
+  margin-right: 12px;
+}
+.taskCheckBox {
+  margin-top: 3px;
+  margin-right: 10px;
+}
+.icon {
+  cursor: pointer;
+}

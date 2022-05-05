@@ -1,0 +1,19 @@
+.text {
+  font-family: Roboto;
+  margin: 10px;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.underline {
+  margin: 0 auto;
+  background: -webkit-linear-gradient(
+    right,
+    rgba(0, 0, 0, 0.3),
+    rgba(0, 0, 0, 0.3)
+  );
+  height: 1px;
+  width: 80%;
+}

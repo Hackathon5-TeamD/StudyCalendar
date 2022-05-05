@@ -1,0 +1,9 @@
+.CheckBoxContainer {
+    display: inline-block;
+    margin: 12px 0;
+}
+
+.LerningCheckBoxInput {
+    transform: scale(2);
+	margin: 0 10px;
+}
